@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Chat",
+  "description": "A sleek, responsive chat application powered by the Google Gemini API, inspired by modern AI assistant interfaces. It features real-time streaming responses and a clean, dark-themed UI.",
+  "requestFramePermissions": []
+}
